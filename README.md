@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on C++
 - 📫 How to reach me 
+- QQ:3045831167
+- Bilibili: [Coaixy](https://space.bilibili.com/103287843)
+- Github [Coaixy](https://github.com/Coaixy/)
 
 <!---
 Coaixy/Coaixy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
