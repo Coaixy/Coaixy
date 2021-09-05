@@ -3,8 +3,8 @@
 
 - 👋 Hi, I’m @Coaixy
 - 👀 I’m interested in C++/Java
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on C++
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me 
 - QQ:3045831167
 - Bilibili: [Coaixy](https://space.bilibili.com/103287843)
