@@ -1,4 +1,4 @@
-![ Chenyijie's GitHub stats](https://github-readme-stats.vercel.app/api?username=coaixy&show_icons=true&theme=onedark)<br><br>
+![ Chenyijie's GitHub stats](https://github-readme-stats.vercel.app/api?username=coaixy&show_icons=true&theme=dracula)<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coaixy&layout=compact&theme=dracula)](https://github.com/coaixy)<br>
 
 
