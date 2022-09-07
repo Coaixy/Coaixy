@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @Coaixy
 - 👀 I’m interested in Kotlin
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Kotlin,Rust
 - 💞️ I’m looking to collaborate on Java/Kotlin
 - 📫 How to reach me 
 - QQ:3045831167
