@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @Coaixy
-- 👀 I’m interested in Kotlin,C#
+- 👀 I’m interested in Kotlin,C#,JavaScript
 - 🌱 I’m currently learning Kotlin,Rust,C#
 - 💞️ I’m looking to collaborate on Java/Kotlin/C#
 - 📫 How to reach me 
