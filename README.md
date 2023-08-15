@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on Java/Kotlin/C#
 - 📫 How to reach me 
 - QQ:3045831167
+- VX:Coaixy
 - Bilibili: [Coaixy](https://space.bilibili.com/103287843)
 - Github [Coaixy](https://github.com/Coaixy/)
 
