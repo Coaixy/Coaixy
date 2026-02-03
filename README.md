@@ -28,29 +28,18 @@
 
 ---
 
-### 🚧 我的项目
-- 🌟 **[liuren-ts-lib]** ([链接](https://github.com/look-fate/liuren-ts-lib))  
-  描述：一个超酷的 [Lib]，用 [TypeScript] 构建，实现 [大六壬排盘]。
+### 🔮 术数实验室 (Metaphysics Lab)
+> *致力于将中华传统术数算法化、标准化、开源化。*
 
-- 🌟 **[kinwuzhao]** ([链接](https://github.com/look-fate/kinwuzhao))  
-  描述：通过对[kinwuzhao]的重构，完成了python到typescript的转化
-
-- 🌟 **[chuangong-ts-lib]** ([链接](https://github.com/look-fate/chuangong-ts-lib))  
-  描述：本项目旨在将《串宫推月》 中的盲派推运算法程序化，封装为一个标准的 NPM 库。该算法主要用于推演流年、流月甚至流时的运势吉凶。
-
-- 🌟 **[xiaochengtu-ts-lib]** ([链接](https://github.com/look-fate/xiaochengtu-ts-lib))  
-  描述：一个用于小成图占卜的 TypeScript/JavaScript 库，实现了基于中国传统易经的预测方法。
-
-- 🌟 **[qiduweng-ts-lib]** ([链接](https://github.com/look-fate/qiduweng-ts-lib))  
-  描述：一个基于五星占传统占卜算法的 TypeScript/JavaScript 库，实现完整的五星占卜、体用推算、旺相休废判断等功能。
-
-- 🌟 **[bashen-ts-lib]** ([链接](https://github.com/look-fate/bashen-ts-lib))  
-  描述：八神法是一种传统占卜术,起课简单,使用方便,准确度稳定。本库提供了完整的八神法占卜算法实现。
-  
-- 🌟 **[taixuan-lib]** ([链接](https://github.com/look-fate/taixuan-lib))  
-  描述：一个基于 TypeScript 的太玄经（扬雄）占卜库，提供多种起卦方法和完整的 81 首卦象数据。
-  
----
+| 📦 项目名称 | 📝 项目描述 | 🛠️ 技术栈 & 热度 |
+| :--- | :--- | :--- |
+| **[liuren-ts-lib](https://github.com/look-fate/liuren-ts-lib)** | **[大六壬]** 排盘算法库。<br>实现天地盘、四课三传及神煞推演，探索古老预测学的数字化。 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) <br> ![Stars](https://img.shields.io/github/stars/look-fate/liuren-ts-lib?style=social) |
+| **[kinwuzhao](https://github.com/look-fate/kinwuzhao)** | **[金乌照]** 算法重构。<br>完成从 Python 到 TypeScript 的完整迁移，性能与类型安全双重提升。 | ![TypeScript](https://img.shields.io/badge/Refactor-Python%20to%20TS-3178C6?logo=typescript&logoColor=white) <br> ![Stars](https://img.shields.io/github/stars/look-fate/kinwuzhao?style=social) |
+| **[chuangong-ts-lib](https://github.com/look-fate/chuangong-ts-lib)** | **[串宫推月]** 盲派推运算法。<br>程序化封装流年、流月、流时运势吉凶推演，提供标准 NPM 库。 | ![NPM](https://img.shields.io/badge/NPM-Library-CB3837?logo=npm&logoColor=white) <br> ![Stars](https://img.shields.io/github/stars/look-fate/chuangong-ts-lib?style=social) |
+| **[xiaochengtu-ts-lib](https://github.com/look-fate/xiaochengtu-ts-lib)** | **[小成图]** 易经预测库。<br>基于中国传统易经，实现小成图占卜逻辑与排盘。 | ![TypeScript](https://img.shields.io/badge/YiJing-3178C6?logo=typescript&logoColor=white) <br> ![Stars](https://img.shields.io/github/stars/look-fate/xiaochengtu-ts-lib?style=social) |
+| **[qiduweng-ts-lib](https://github.com/look-fate/qiduweng-ts-lib)** | **[五星占]** 传统占卜算法库。<br>包含五星占卜、体用推算及旺相休废判断的完整实现。 | ![TypeScript](https://img.shields.io/badge/Five%20Stars-3178C6?logo=typescript&logoColor=white) <br> ![Stars](https://img.shields.io/github/stars/look-fate/qiduweng-ts-lib?style=social) |
+| **[bashen-ts-lib](https://github.com/look-fate/bashen-ts-lib)** | **[八神法]** 占卜术实现。<br>起课简单、准确度稳定的传统算法封装，开箱即用。 | ![TypeScript](https://img.shields.io/badge/BaShen-3178C6?logo=typescript&logoColor=white) <br> ![Stars](https://img.shields.io/github/stars/look-fate/bashen-ts-lib?style=social) |
+| **[taixuan-lib](https://github.com/look-fate/taixuan-lib)** | **[太玄经]** 扬雄占卜库。<br>提供多种起卦方法，内置完整的 81 首卦象数据与解析逻辑。 | ![TypeScript](https://img.shields.io/badge/TaiXuan-3178C6?logo=typescript&logoColor=white) <br> ![Stars](https://img.shields.io/github/stars/look-fate/taixuan-lib?style=social) |
 
 ### 📊 GitHub 战绩
 <div align="center">
