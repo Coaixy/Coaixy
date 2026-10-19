@@ -1,38 +1,94 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/profile-light.svg">
-  <img src="assets/profile-light.svg" alt="小奕 · Coaixy — 以代码承载术数，以开源连接同行" width="100%">
-</picture>
+<p>
+  <a href="https://github.com/look-fate">
+    <picture>
+      <source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="assets/hero-dark-mobile.svg">
+      <source media="(max-width: 767px)" srcset="assets/hero-light-mobile.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+      <img src="assets/hero-light.svg" alt="小奕 Coaixy，主理 LookFate。关注传统术数的程序化实现与 AI Agent 应用，排盘算法、知识检索与模型评测。点击查看 LookFate。" width="100%">
+    </picture>
+  </a>
+</p>
 
-我是 **小奕（Coaixy）**，关注**传统术数的程序化实现与 AI Agent 应用**，主理开源组织 [LookFate](https://github.com/look-fate)。
+<p>
+    <picture>
+      <source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="assets/current-dark-mobile.svg">
+      <source media="(max-width: 767px)" srcset="assets/current-light-mobile.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/current-dark.svg">
+      <img src="assets/current-light.svg" alt="正在开发 FateClaw：东方术数排盘与 AI 解读应用，探索把排盘工具、知识检索与 Agent 交互连接起来。" width="100%">
+    </picture>
+</p>
 
-我关心规则怎样变成代码、模型怎样使用工具，以及计算与解读的结果怎样被检查。
+<p>
+    <picture>
+      <source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="assets/projects-dark-mobile.svg">
+      <source media="(max-width: 767px)" srcset="assets/projects-light-mobile.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.svg">
+      <img src="assets/projects-light.svg" alt="公开作品：以下项目卡片均可点击查看仓库。" width="100%">
+    </picture>
+</p>
 
-[公开项目](#公开项目) · [参与合作](#参与合作) · [个人网站](https://www.letfate.com) · [邮件联系](mailto:coaixy@outlook.com)
+<p>
+  <a href="https://github.com/look-fate/liuren-ts-lib">
+    <picture>
+      <source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="assets/project-liuren-dark-mobile.svg">
+      <source media="(max-width: 767px)" srcset="assets/project-liuren-light-mobile.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/project-liuren-dark.svg">
+      <img src="assets/project-liuren-light.svg" alt="liuren-ts-lib：基于 tyme4ts 的大六壬排盘库，提供结构化结果与调用接口。 点击查看项目。" width="100%">
+    </picture>
+  </a>
+</p>
 
-### 正在做：FateClaw（开发中）
+<p>
+  <a href="https://github.com/Coaixy/xuanxue-skill">
+    <picture>
+      <source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="assets/project-skills-dark-mobile.svg">
+      <source media="(max-width: 767px)" srcset="assets/project-skills-light-mobile.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/project-skills-dark.svg">
+      <img src="assets/project-skills-light.svg" alt="xuanxue-skill：面向 Agent 的术数 Skill 集合，整理使用框架与参考资料。 点击查看项目。" width="100%">
+    </picture>
+  </a>
+</p>
 
-开发面向东方术数排盘与 AI 解读的应用，探索把排盘工具、知识检索与 Agent 交互连接起来。
+<p>
+  <a href="https://github.com/look-fate/fate_benchmark">
+    <picture>
+      <source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="assets/project-benchmark-dark-mobile.svg">
+      <source media="(max-width: 767px)" srcset="assets/project-benchmark-light-mobile.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/project-benchmark-dark.svg">
+      <img src="assets/project-benchmark-light.svg" alt="fate_benchmark：基于 BaziQA 的模型评测流程，记录回答、评分与分项统计。 点击查看项目。" width="100%">
+    </picture>
+  </a>
+</p>
 
-### 公开项目
+<p>
+  <a href="https://github.com/Coaixy/TCM-Ancient-Books">
+    <picture>
+      <source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="assets/project-books-dark-mobile.svg">
+      <source media="(max-width: 767px)" srcset="assets/project-books-light-mobile.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/project-books-dark.svg">
+      <img src="assets/project-books-light.svg" alt="TCM-Ancient-Books：中医古籍 OCR 文本的专题整理与检索预处理。 点击查看项目。" width="100%">
+    </picture>
+  </a>
+</p>
 
-| 项目 | 做什么 |
-| --- | --- |
-| [liuren-ts-lib](https://github.com/look-fate/liuren-ts-lib) | 大六壬排盘 TypeScript 库，提供结构化结果与调用接口。 |
-| [xuanxue-skill](https://github.com/Coaixy/xuanxue-skill) | 面向 Agent 的术数 Skill 集合，整理不同术数的使用框架与参考资料。 |
-| [fate_benchmark](https://github.com/look-fate/fate_benchmark) | 基于 BaziQA 数据的模型评测流程，记录回答、评分与分项统计。 |
-| [TCM-Ancient-Books](https://github.com/Coaixy/TCM-Ancient-Books) | 中医古籍 OCR 文本的专题整理与检索预处理。 |
+<p>
+  <a href="mailto:coaixy@outlook.com">
+    <picture>
+      <source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="assets/collaboration-dark-mobile.svg">
+      <source media="(max-width: 767px)" srcset="assets/collaboration-light-mobile.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/collaboration-dark.svg">
+      <img src="assets/collaboration-light.svg" alt="欢迎一起核对术数规则、开发软件与 Agent、完善测试评测。具体问题请在对应仓库提交 Issue；跨项目合作请邮件说明目标、已有进展与合作想法。联系 coaixy@outlook.com。" width="100%">
+    </picture>
+  </a>
+</p>
 
-### 参与合作
-
-欢迎对术数、开源软件与 AI 应用感兴趣的朋友一起推进具体问题：
-
-- **熟悉术数规则**：核对规则出处、补充盘例，说明流派差异与适用条件。
-- **开发软件与 Agent**：完善算法实现、调用示例、交互体验与工具接入。
-- **使用或研究项目**：提交可复现的问题，补充测试案例与评测方法。
-
-具体问题请在对应仓库提交 Issue；跨项目合作可以[发邮件](mailto:coaixy@outlook.com)，说明你在做什么、已有进展和希望一起完成的部分。
-
----
-
-<sub>Building open tools for traditional Chinese metaphysics and AI agents.</sub>
+<p>
+  <a href="https://www.letfate.com">
+    <picture>
+      <source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="assets/footer-dark-mobile.svg">
+      <source media="(max-width: 767px)" srcset="assets/footer-light-mobile.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+      <img src="assets/footer-light.svg" alt="LookFate / Coaixy。点击访问个人网站。" width="100%">
+    </picture>
+  </a>
+</p>
