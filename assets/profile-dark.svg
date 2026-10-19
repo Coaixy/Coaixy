@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">Coaixy · 小奕</title>
+  <desc id="description">以代码承载术数，以开源连接同行。</desc>
+  <rect width="1200" height="300" rx="12" fill="#181715"/>
+  <path d="M52 246H1148" stroke="#39342e"/>
+  <text x="52" y="53" fill="#d6a47a" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', sans-serif" font-size="16" letter-spacing="3">小奕 · LOOKFATE</text>
+  <text x="48" y="145" fill="#faf9f5" font-family="Georgia, 'Times New Roman', serif" font-size="88" letter-spacing="-3">Coaixy</text>
+  <text x="52" y="198" fill="#d8d3ca" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', sans-serif" font-size="28" letter-spacing="2">以代码承载术数，以开源连接同行。</text>
+  <text x="52" y="276" fill="#a09d96" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14" letter-spacing="1">TRADITIONAL RULES / OPEN SOURCE / AI AGENTS</text>
+  <g transform="translate(1030 133)" fill="none">
+    <circle r="86" stroke="#39342e"/>
+    <circle r="108" stroke="#39342e" stroke-dasharray="2 9"/>
+    <path d="M-42-43H42M-42-25H-8M8-25H42M-42-7H42M-42 11H-8M8 11H42M-42 29H-8M8 29H42M-42 47H42" stroke="#d6a47a" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="0" cy="-108" r="4" fill="#e8a55a"/>
+  </g>
+</svg>
